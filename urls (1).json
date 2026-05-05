@@ -6,32 +6,32 @@
     "Apple__Black_rot": {
         "University of Minnesota Extension": "https://extension.umn.edu/plant-diseases/black-rot-apple",
         "Ohio University": "https://ohioline.osu.edu/factsheet/plpath-fru-07",
-        "source3": ""
+        "Novobac": "https://www.novobac.com/black-rot-apple-tree-treatment/"
     },
     "Apple__Cedar_apple_rust": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "University of Minnesota Extension": "https://extension.umn.edu/plant-diseases/cedar-apple-rust",
+        "NC State Extension": "https://content.ces.ncsu.edu/cedar-apple-rusts",
+        "University of Massachusetts Amhersts": "https://www.umass.edu/agriculture-food-environment/fruit/fact-sheets/apple-ipm-cedar-apple-rust"
     },
     "Cherry_(including_sour)__Powdery_mildew": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "Washington State University": "https://treefruit.wsu.edu/crop-protection/disease-management/cherry-powdery-mildew/",
+        "Decision Aid System": "https://decisionaid.systems/articles",
+        "Michigan State University": "https://www.canr.msu.edu/news/cherry_leaf_spot_and_powdery_mildew_control_materials"
     },
     "Corn_(maize)__Cercospora_leaf_spot_Gray_leaf_spot": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "Michigan State University": "https://extension.umn.edu/corn-pest-management/gray-leaf-spot-corn",
+        "NC State Extension": "https://content.ces.ncsu.edu/gray-leaf-spot-in-corn",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Corn_grey_leaf_spot"
     },
     "Corn_(maize)__Common_rust_": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "Crop Protection Network": "https://cropprotectionnetwork.org/encyclopedia/common-rust-of-corn",
+        "Corteva Agriscience": "https://www.corteva.com/uk/tools-and-advice/disease-management/common-rust.html",
+        "University of Minnesota Extension": "https://extension.umn.edu/corn-pest-management/common-rust-corn"
     },
     "Corn_(maize)__Northern_Leaf_Blight": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "Corteva Agriscience": "https://www.corteva.com/uk/tools-and-advice/disease-management/northern-leaf-blight.html",
+        "University of Minnesota Extension": "https://extension.umn.edu/corn-pest-management/northern-corn-leaf-blight",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Northern_corn_leaf_blight"
     },
     "Grape__Black_rot": {
         "source1": "",
