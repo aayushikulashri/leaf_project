@@ -34,69 +34,70 @@
         "Wikipedia": "https://en.wikipedia.org/wiki/Northern_corn_leaf_blight"
     },
     "Grape__Black_rot": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "Penn State Extension": "https://extension.psu.edu/grape-disease-black-rot",
+        "Arkansas Extension": "https://www.uaex.uada.edu/yard-garden/plant-health-clinic/disease-notes/posts/grape-black-rot.aspx",
+        "Ohio State Extension": "https://ohioline.osu.edu/factsheet/plpath-fru-24"
     },
     "Grape__Esca_(Black_Measles)": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "UC IPM": "https://ipm.ucanr.edu/agriculture/grape/esca-black-measles/#gsc.tab=0",
+        "Grape Pathology lab at Virginia Tech": "https://ipm.ucanr.edu/agriculture/grape/esca-black-measles/#gsc.tab=0",
+        "British Columbia Council": "https://bpg.bcwgc.org/pest_guide/info/19/Esca"
     },
     "Grape__Leaf_blight_(Isariopsis_Leaf_Spot)": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "Dhanuka ": "https://www.dhanuka.com/blogs/suggestive-measures-to-control-anthracnose-bacterial-leaf-spot-in-grapes",
+        "plantVillage": "https://plantvillage.psu.edu/topics/grape/infos",
+        
     },
     "Orange__Haunglongbing_(Citrus_greening)": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "UC IPM": "https://ipm.ucanr.edu/agriculture/citrus/huanglongbing/#gsc.tab=0",
+        "NCBI": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8636133/",
+        "Frontiers": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2021.760481/full",
+        
     },
     "Peach__Bacterial_spot": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "Alabama University": "https://www.aces.edu/blog/topics/crop-production/bacterial-spot-treatment-in-peaches/",
+        "Blog": "https://www.idyl.co.in/blogs/blog/preventing-and-treating-bacterial-spot-on-peach-and-nectarine-trees?srsltid=AfmBOorWTGd8XNdLAiOSA9m3vI2jSRNottEDkJTcAGEF3dl3DyYo69YM",
+        "Pubmed Central": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13027290/"
     },
     "Pepper,_bell__Bacterial_spot": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "WVU Extension": "https://extension.wvu.edu/lawn-gardening-pests/plant-disease/fruit-vegetable-diseases/bacterial-leaf-spot-of-pepper",
+        "University of Minnesota Extension": "https://extension.umn.edu/disease-management/bacterial-spot-tomato-and-pepper",
+        "Cornell University": "https://allegany.cce.cornell.edu/gardening/pest-management/bacterial-leaf-spot-in-peppers-how-to-identify-treat-and-prevent-it"
     },
     "Potato__Early_blight": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "UC IPM": "https://ipm.ucanr.edu/agriculture/potato/early-blight/#gsc.tab=0",
+        "Bayer CropScience": "http://cropscience.bayer.us/articles/cp/early-blight-potatoes",
+        "University of Conneticut": "https://ipm.cahnr.uconn.edu/early-blight-and-late-blight-of-potato/"
     },
     "Potato__Late_blight": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "UC IPM": "https://ipm.ucanr.edu/agriculture/potato/late-blight/#gsc.tab=0",
+        "Colarado DoA": "https://ag.colorado.gov/plants/plant-health/potato-late-blight-history-impacts-and-prevention",
+        "NDSU": "https://www.ndsu.edu/agriculture/extension/publications/late-blight-potato"
     },
     "Squash__Powdery_mildew": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "Pest Management Handbook": "https://pnwhandbooks.org/plantdisease/host-disease/squash-cucurbita-spp-powdery-mildew",
+        "PMC GoI": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5117861/",
+        "Better homes and gardens": "https://www.bhg.com/gardening/pests/insects-diseases-weeds/powdery-mildew-squash-plants/"
     },
     "Strawberry__Leaf_scorch": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "NC STATE EXTENSION": "https://content.ces.ncsu.edu/leaf-scorch-of-strawberry",
+        "Pest Management Handbook": "https://pnwhandbooks.org/plantdisease/host-disease/strawberry-fragaria-spp-leaf-scorch",
+        "UC IPM": "https://ipm.ucanr.edu/home-and-landscape/leaf-scorch-of-strawberries/#gsc.tab=0"
     },
     "Tomato__Bacterial_spot": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "University of minnesota extension": "https://extension.umn.edu/disease-management/bacterial-spot-tomato-and-pepper",
+        "UC IPM": "https://ipm.ucanr.edu/agriculture/tomato/bacterial-spot/#gsc.tab=0",
+        "University of connecticut": "https://ipm.cahnr.uconn.edu/bacterial-speck-and-spot-of-tomato/"
     },
     "Tomato__Early_blight": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "NC State Extension": "https://content.ces.ncsu.edu/early-blight-of-tomato",
+        "GardenTech": "https://www.gardentech.com/blog/pest-id-and-prevention/fight-blight-on-your-tomatoes",
+        "Kaybee bioorganics": "https://kaybeebio.com/blog/early-and-late-blight-in-tomato/?srsltid=AfmBOooG1GknKeAdw8M712d1lsQQ3Cp8De0a8VZKqmfOdcxooeZ7QNWh"
     },
     "Tomato__Late_blight": {
-        "source1": "",
-        "source2": "",
-        "source3": ""
+        "NC STATE EXTENSION": "https://content.ces.ncsu.edu/tomato-late-blight",
+        "Caffini": "https://www.caffini.com/en/blog/post/tomato-late-blight-symptoms-prevention-and-treatment.html",
+        "Dhanuka": "https://www.dhanuka.com/blogs/suggestive-ways-to-control-late-blight-in-tomato-crop"
     },
     "Tomato__Leaf_mold": {
         "source1": "",
